@@ -1,0 +1,8 @@
+{
+  "name": "CROWD SENSE AURA",
+  "description": "An AI-powered crowd monitoring system that provides real-time headcount, risk analysis, and an interactive voice/chat assistant for crowd management. Includes an administrative dashboard for detailed analytics and alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
